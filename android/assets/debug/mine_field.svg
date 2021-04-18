@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg61"
+   sodipodi:docname="mine_field.svg"
+   inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+   inkscape:export-xdpi="19.200001"
+   inkscape:export-ydpi="19.200001"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs55" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="277.86197"
+     inkscape:cy="99.742178"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-grids="false"
+     showguides="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata58">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#cccccc;stroke-width:0.17516188"
+       id="rect63"
+       width="52.916668"
+       height="52.916668"
+       x="39.876488"
+       y="114.43751"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       inkscape:export-xdpi="55.849998"
+       inkscape:export-ydpi="55.849998" />
+    <path
+       style="fill:#999999;stroke-width:0.05809462"
+       d="m 22.43181,181.30663 5.244124,-5.24464 -0.04703,-0.047 H 22.43181 Z"
+       id="rect63-2"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3857"
+       style="fill:#999999"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       inkscape:export-xdpi="55.849998"
+       inkscape:export-ydpi="55.849998">
+      <g
+         id="g3852"
+         style="fill:#999999">
+        <path
+           style="fill:#999999;stroke-width:0.05809462"
+           d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+           id="path3833"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#999999;stroke-width:0.05809462"
+           d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+           id="path3833-3"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="rotate(-180,63.688714,138.24971)"
+       id="g3857-5"
+       style="fill:#e6e6e6"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       inkscape:export-xdpi="55.849998"
+       inkscape:export-ydpi="55.849998">
+      <g
+         id="g3852-9"
+         style="fill:#e6e6e6">
+        <path
+           style="fill:#e6e6e6;stroke-width:0.05809462"
+           d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+           id="path3833-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke-width:0.05809462"
+           d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+           id="path3833-3-5"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="55.849998"
+       inkscape:export-xdpi="55.849998"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       y="114.43751"
+       x="39.876488"
+       height="52.916668"
+       width="52.916668"
+       id="rect3883"
+       style="fill:#cccccc;stroke-width:0.17516188" />
+    <g
+       inkscape:export-ydpi="55.849998"
+       inkscape:export-xdpi="55.849998"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       style="fill:#999999"
+       id="g3891">
+      <g
+         style="fill:#999999"
+         id="g3889">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3885"
+           d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+           style="fill:#999999;stroke-width:0.05809462" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3887"
+           d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+           style="fill:#999999;stroke-width:0.05809462" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="55.849998"
+       inkscape:export-xdpi="55.849998"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       style="fill:#e6e6e6"
+       id="g3899"
+       transform="rotate(-180,63.688714,138.24971)">
+      <g
+         style="fill:#e6e6e6"
+         id="g3897">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3893"
+           d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+           style="fill:#e6e6e6;stroke-width:0.05809462" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3895"
+           d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+           style="fill:#e6e6e6;stroke-width:0.05809462" />
+      </g>
+    </g>
+    <g
+       id="g5070"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell_flag.png"
+       inkscape:export-xdpi="55.849998"
+       inkscape:export-ydpi="55.849998">
+      <rect
+         inkscape:export-ydpi="19"
+         inkscape:export-xdpi="19"
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+         y="183.6525"
+         x="38.929295"
+         height="52.916668"
+         width="52.916668"
+         id="rect63-6"
+         style="fill:#cccccc;stroke-width:0.17516188" />
+      <g
+         inkscape:export-ydpi="19"
+         inkscape:export-xdpi="19"
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+         style="fill:#999999"
+         id="g3857-3"
+         transform="translate(-0.9471944,69.214988)">
+        <g
+           style="fill:#999999"
+           id="g3852-3">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3833-4"
+             d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+             style="fill:#999999;stroke-width:0.05809462" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3833-3-8"
+             d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+             style="fill:#999999;stroke-width:0.05809462" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="19"
+         inkscape:export-xdpi="19"
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+         style="fill:#e6e6e6"
+         id="g3857-5-8"
+         transform="rotate(180,63.215116,172.85721)">
+        <g
+           style="fill:#e6e6e6"
+           id="g3852-9-2">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3833-2-8"
+             d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+             style="fill:#e6e6e6;stroke-width:0.05809462" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3833-3-5-0"
+             d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+             style="fill:#e6e6e6;stroke-width:0.05809462" />
+        </g>
+      </g>
+      <rect
+         style="fill:#cccccc;stroke-width:0.17516188"
+         id="rect3883-5"
+         width="52.916668"
+         height="52.916668"
+         x="38.929295"
+         y="183.6525"
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+         inkscape:export-xdpi="19"
+         inkscape:export-ydpi="19" />
+      <g
+         id="g3891-9"
+         style="fill:#999999"
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+         inkscape:export-xdpi="19"
+         inkscape:export-ydpi="19"
+         transform="translate(-0.9471944,69.214988)">
+        <g
+           id="g3889-1"
+           style="fill:#999999">
+          <path
+             style="fill:#999999;stroke-width:0.05809462"
+             d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+             id="path3885-2"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#999999;stroke-width:0.05809462"
+             d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+             id="path3887-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         transform="rotate(180,63.215116,172.85721)"
+         id="g3899-2"
+         style="fill:#e6e6e6"
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+         inkscape:export-xdpi="19"
+         inkscape:export-ydpi="19">
+        <g
+           id="g3897-5"
+           style="fill:#e6e6e6">
+          <path
+             style="fill:#e6e6e6;stroke-width:0.05809462"
+             d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+             id="path3893-7"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#e6e6e6;stroke-width:0.05809462"
+             d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+             id="path3895-1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         transform="translate(-55.562529,2.1166667)"
+         id="g5045">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41983601;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5003"
+           width="43.230843"
+           height="4.496417"
+           x="96.885201"
+           y="219.53902" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35438722;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5003-0"
+           width="30.802809"
+           height="4.496417"
+           x="103.09922"
+           y="215.21553" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45199999;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5024"
+           width="1.4699824"
+           height="19.377041"
+           x="118.0962"
+           y="196.30083" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.45199999;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+           id="path5022-9"
+           sodipodi:sides="3"
+           sodipodi:cx="109.44687"
+           sodipodi:cy="182.94272"
+           sodipodi:r1="7.2434478"
+           sodipodi:r2="3.6217239"
+           sodipodi:arg1="1.0493619"
+           sodipodi:arg2="2.0965594"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 113.05501,189.22355 -5.42579,-3.14825 -5.42578,-3.14826 5.43936,-3.12474 5.43936,-3.12474 -0.0136,6.273 z"
+           inkscape:transform-center-x="3.2334753"
+           inkscape:transform-center-y="0.012590143"
+           transform="matrix(1.7923211,0,0,1.6071407,-82.982461,-98.155391)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#cccccc;stroke-width:0.17516188"
+       id="rect63-6-7"
+       width="52.916668"
+       height="52.916668"
+       x="104.74442"
+       y="183.78613"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       inkscape:export-xdpi="19"
+       inkscape:export-ydpi="19" />
+    <g
+       transform="translate(64.867926,69.348625)"
+       id="g3857-3-2"
+       style="fill:#999999"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       inkscape:export-xdpi="19"
+       inkscape:export-ydpi="19">
+      <g
+         id="g3852-3-6"
+         style="fill:#999999">
+        <path
+           style="fill:#999999;stroke-width:0.05809462"
+           d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+           id="path3833-4-5"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#999999;stroke-width:0.05809462"
+           d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+           id="path3833-3-8-1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="rotate(180,96.122676,172.92403)"
+       id="g3857-5-8-8"
+       style="fill:#e6e6e6"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       inkscape:export-xdpi="19"
+       inkscape:export-ydpi="19">
+      <g
+         id="g3852-9-2-7"
+         style="fill:#e6e6e6">
+        <path
+           style="fill:#e6e6e6;stroke-width:0.05809462"
+           d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+           id="path3833-2-8-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke-width:0.05809462"
+           d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+           id="path3833-3-5-0-9"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="19"
+       inkscape:export-xdpi="19"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       y="183.78613"
+       x="104.74442"
+       height="52.916668"
+       width="52.916668"
+       id="rect3883-5-1"
+       style="fill:#cccccc;stroke-width:0.17516188" />
+    <g
+       transform="translate(64.867926,69.348625)"
+       inkscape:export-ydpi="19"
+       inkscape:export-xdpi="19"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       style="fill:#999999"
+       id="g3891-9-9">
+      <g
+         style="fill:#999999"
+         id="g3889-1-4">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3885-2-4"
+           d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+           style="fill:#999999;stroke-width:0.05809462" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3887-6-5"
+           d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+           style="fill:#999999;stroke-width:0.05809462" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="19"
+       inkscape:export-xdpi="19"
+       inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\minecell.png"
+       style="fill:#e6e6e6"
+       id="g3899-2-1"
+       transform="rotate(180,96.122676,172.92403)">
+      <g
+         style="fill:#e6e6e6"
+         id="g3897-5-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3893-7-2"
+           d="M 34.584819,167.35417 H 92.793152 V 162.0625 H 39.781916 l 0.04703,0.047 z"
+           style="fill:#e6e6e6;stroke-width:0.05809462" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3895-1-1"
+           d="m 92.793152,109.14583 v 58.20834 h -5.291679 l 10e-6,-53.01124 0.047,0.047 z"
+           style="fill:#e6e6e6;stroke-width:0.05809462" />
+      </g>
+    </g>
+    <g
+       id="g5045-8"
+       transform="translate(10.252591,2.2503035)">
+      <rect
+         y="219.53902"
+         x="96.885201"
+         height="4.496417"
+         width="43.230843"
+         id="rect5003-2"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41983601;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="215.21553"
+         x="103.09922"
+         height="4.496417"
+         width="30.802809"
+         id="rect5003-0-9"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35438722;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="196.30083"
+         x="118.0962"
+         height="19.377041"
+         width="1.4699824"
+         id="rect5024-2"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45199999;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         transform="matrix(1.7923211,0,0,1.6071407,-82.982461,-98.155391)"
+         inkscape:transform-center-y="0.012590143"
+         inkscape:transform-center-x="3.2334753"
+         d="m 113.05501,189.22355 -5.42579,-3.14825 -5.42578,-3.14826 5.43936,-3.12474 5.43936,-3.12474 -0.0136,6.273 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.0965594"
+         sodipodi:arg1="1.0493619"
+         sodipodi:r2="3.6217239"
+         sodipodi:r1="7.2434478"
+         sodipodi:cy="182.94272"
+         sodipodi:cx="109.44687"
+         sodipodi:sides="3"
+         id="path5022-9-6"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.45199999;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833333;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275"
+       width="58.208878"
+       height="58.208904"
+       x="101.18945"
+       y="109.15054"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecelle.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-6"
+       width="58.208878"
+       height="58.208908"
+       x="163.86417"
+       y="109.20426"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell1.png"
+       inkscape:export-xdpi="54.856613"
+       inkscape:export-ydpi="54.856613" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="182.211"
+       y="136.3042"
+       id="text5843"><tspan
+         sodipodi:role="line"
+         id="tspan5841"
+         x="182.211"
+         y="145.83719"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'Cooper Black, ';font-family:'Cooper Black';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57438546;"
+       x="169.31113"
+       y="161.45459"
+       id="text5847"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell1.png"
+       inkscape:export-xdpi="54.856613"
+       inkscape:export-ydpi="54.856613"><tspan
+         sodipodi:role="line"
+         id="tspan5845"
+         x="169.31113"
+         y="161.45459"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.57438546;fill:#0000ff;">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57438552"
+       x="2.2377567"
+       y="83.229599"
+       id="text5847-9"><tspan
+         sodipodi:role="line"
+         id="tspan5845-8"
+         x="2.2377567"
+         y="83.229599"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.57438552">12345678</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-6-2"
+       width="58.208878"
+       height="58.208912"
+       x="227.76831"
+       y="109.3379"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell2.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57438552"
+       x="233.21527"
+       y="161.58823"
+       id="text5847-5"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell2.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001"><tspan
+         sodipodi:role="line"
+         id="tspan5845-9"
+         x="233.21527"
+         y="161.58823"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000;stroke-width:0.57438552">2</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-6-5"
+       width="58.208878"
+       height="58.208912"
+       x="163.69044"
+       y="176.12854"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell3.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57438552"
+       x="169.13741"
+       y="228.37888"
+       id="text5847-8"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell3.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001"><tspan
+         sodipodi:role="line"
+         id="tspan5845-1"
+         x="169.13741"
+         y="228.37888"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.57438552">3</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-6-0"
+       width="58.208878"
+       height="58.208912"
+       x="227.7683"
+       y="176.035"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell4.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57438552"
+       x="233.21526"
+       y="228.28534"
+       id="text5847-4"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell4.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001"><tspan
+         sodipodi:role="line"
+         id="tspan5845-5"
+         x="233.21526"
+         y="228.28534"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#aa0000;stroke-width:0.57438552">4</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-6-8"
+       width="58.208878"
+       height="58.208912"
+       x="163.59689"
+       y="238.61617"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell5.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57438552"
+       x="169.04385"
+       y="290.86649"
+       id="text5847-7"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell5.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001"><tspan
+         sodipodi:role="line"
+         id="tspan5845-19"
+         x="169.04385"
+         y="290.86649"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080;stroke-width:0.57438552">5</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-6-9"
+       width="58.208878"
+       height="58.208912"
+       x="227.58121"
+       y="238.8968"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell6.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57438552"
+       x="233.02817"
+       y="291.14713"
+       id="text5847-2"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell6.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001"><tspan
+         sodipodi:role="line"
+         id="tspan5845-7"
+         x="233.02817"
+         y="291.14713"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#552200;stroke-width:0.57438552">6</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-6-3"
+       width="58.208878"
+       height="58.208912"
+       x="163.22272"
+       y="302.03925"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell7.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57438552"
+       x="168.66968"
+       y="354.28955"
+       id="text5847-3"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell7.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001"><tspan
+         sodipodi:role="line"
+         id="tspan5845-0"
+         x="168.66968"
+         y="354.28955"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#d45500;stroke-width:0.57438552">7</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-6-4"
+       width="58.208878"
+       height="58.208912"
+       x="228.14249"
+       y="302.31985"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell8.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.97542px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57438552"
+       x="233.58945"
+       y="354.57016"
+       id="text5847-75"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\minecell8.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001"><tspan
+         sodipodi:role="line"
+         id="tspan5845-55"
+         x="233.58945"
+         y="354.57016"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#a02c2c;stroke-width:0.57438552">8</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#646464;stroke-width:1.05833328;stroke-linecap:round;stroke-miterlimit:4.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5275-5"
+       width="58.208878"
+       height="58.208908"
+       x="86.142181"
+       y="246.00616"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\mine.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001" />
+    <g
+       id="g6057"
+       transform="matrix(0.59783302,0,0,0.56689712,97.798366,99.105851)"
+       inkscape:export-filename="C:\Users\Matej\URRI\minesweeper\android\assets\mine.png"
+       inkscape:export-xdpi="54.860001"
+       inkscape:export-ydpi="54.860001">
+      <circle
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         r="30.445204"
+         cy="310.47037"
+         cx="29.185923"
+         id="path4497"
+         style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.75413382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <circle
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         transform="rotate(45)"
+         cy="198.89813"
+         cx="240.17325"
+         id="circle4550"
+         style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.75413382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         r="3.2619863" />
+      <circle
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         r="5.4366436"
+         style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.75413382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle4499"
+         cx="29.185923"
+         cy="310.47037" />
+      <path
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4501"
+         d="m 25.92393,268.13705 h 6.523974 l 2.174655,14.06279 H 23.749272 Z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m -13.147501,313.73234 v -6.52397 L 0.9152849,305.03371 V 315.907 Z"
+         id="path4533"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4535"
+         d="m 71.519166,313.73234 v -6.52397 L 57.456379,305.03371 V 315.907 Z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 25.92393,352.80372 h 6.523974 l 2.174655,-14.06279 H 23.749272 Z"
+         id="path4537"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 54.096816,280.02362 5.535777,5.53578 -5.843321,9.53383 -9.226288,-9.22629 z"
+         id="path4552"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4554"
+         d="m -1.2609231,285.5594 5.535771,-5.53578 9.5338321,5.84332 -9.2262881,9.22629 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 54.096816,340.91714 5.535777,-5.53577 -5.843321,-9.53383 -9.226288,9.22628 z"
+         id="path4556"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-filename="C:\Users\Matej\URRI\mygame02\android\assets\mine.png"
+         inkscape:export-ydpi="19.200001"
+         inkscape:export-xdpi="19.200001"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4558"
+         d="m -1.2608681,335.38143 5.535777,5.53578 9.5338321,-5.84333 -9.2262911,-9.22629 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
